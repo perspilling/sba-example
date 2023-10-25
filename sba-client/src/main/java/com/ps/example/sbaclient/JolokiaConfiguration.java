@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.ps.example.sbaserver;
+package com.ps.example.sbaclient;
 
 import java.util.function.Supplier;
 
