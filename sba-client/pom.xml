@@ -49,17 +49,14 @@
 		<dependency>
 			<groupId>org.jolokia</groupId>
 			<artifactId>jolokia-server-core</artifactId>
-			<version>${jolokia.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>org.jolokia</groupId>
 			<artifactId>jolokia-service-jmx</artifactId>
-			<version>${jolokia.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>org.jolokia</groupId>
 			<artifactId>jolokia-service-serializer</artifactId>
-			<version>${jolokia.version}</version>
 		</dependency>
 
 <!--		<dependency>-->
